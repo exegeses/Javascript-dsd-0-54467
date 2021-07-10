@@ -40,4 +40,7 @@ b. Se puede ejecutar javascript en la consola del browser.
 c. Se puede insertar dentro del elemento "<script>"    
 d. También se puede generar código javascript en línea (inline). Esto es como varlor de un atributo controlador de eventos de HTML
 
+
+----
+
 <img src="extras/imagenes/Learn-Javascript.jpg">
