@@ -1,10 +1,10 @@
 <img src="extras/imagenes/javascript.jpg">
 
-# Javascript desde 0 - 52199
+# Javascript desde 0 - 54467
 
 >Curso Javascript desde 0 |  
->Lunes 19hs a 22hs |  
->Código 52199 |  
+>Sábados 10hs a 13hs |  
+>Código 54467 |  
 >sensei: Marcos Pinardi |
 
 1. Definición
