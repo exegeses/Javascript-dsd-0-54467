@@ -10,8 +10,14 @@ function reloj()
     var horas = fecha.getHours();
     //obtenemos los minutos
     var minutos = fecha.getMinutes();
+    if( minutos < 10 ){
+        minutos = '0'+ minutos;
+    }
     //obtenemos los segundos
     var segundos = fecha.getSeconds();
+    if( segundos < 10 ){
+        segundos = '0'+ segundos;
+    }
     //imprimimos
     txt.innerText = horas +':'+ minutos +':'+ segundos;
 }
