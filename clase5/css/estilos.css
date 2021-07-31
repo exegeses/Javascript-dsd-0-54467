@@ -21,3 +21,11 @@ button{
     background-color: #666;
     margin-top: 25px;
 }
+#portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+    #portfolio article{
+       /* margin: 15px; */
+    }
